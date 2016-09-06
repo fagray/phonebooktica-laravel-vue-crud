@@ -1,4 +1,4 @@
-Phonebooktica - A VueJS and Laravel Starter
+#Phonebooktica - A VueJS and Laravel Starter
 
 Implementing the traditional CRUD operation using Laravel and VueJS as the front-liner 
 
